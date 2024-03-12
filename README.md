@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/lwgood/lwgood?style=flat&logo=spacex&logoColor=black&label=size&labelColor=white&color=black)
+
 ### Hi there 👋
 
 **lwgood/lwgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
