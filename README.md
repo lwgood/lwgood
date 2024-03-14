@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/source-lwgood-blue?labelColor=orange&color=white) ![GitHub repo size](https://img.shields.io/github/repo-size/lwgood/lwgood?style=flat&logo=spacex&logoColor=black&label=size&labelColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/source-lwgood-blue?labelColor=orange&color=white) ![GitHub repo size](https://img.shields.io/github/repo-size/lwgood/lwgood?style=flat&logo=spacex&logoColor=white&label=size&labelColor=black&color=white)
 
 ### Hi there 👋
 
